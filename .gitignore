@@ -1,0 +1,157 @@
+3d_2022-03-04.csv
+3d_2022-03-05.csv
+2022-02-02.csv
+2022-04-25.csv
+Semester-Project.code-workspace
+2020-Makerspace-tracking/Analysis/helpers/[ Archives ]/sid_scripts/sid_functions_how_to.pdf
+2020-Makerspace-tracking/Analysis/helpers/[ Archives ]/sid_scripts/sid_summary.csv
+2020-Makerspace-tracking/Analysis/helpers/__pycache__/__init__.cpython-39.pyc
+2020-Makerspace-tracking/Analysis/helpers/__pycache__/__init__.cpython-310.pyc
+2020-Makerspace-tracking/Analysis/helpers/__pycache__/augment_df.cpython-39.pyc
+2020-Makerspace-tracking/Analysis/helpers/__pycache__/augment_df.cpython-310.pyc
+2020-Makerspace-tracking/Analysis/helpers/__pycache__/cohort.cpython-39.pyc
+2020-Makerspace-tracking/Analysis/helpers/__pycache__/cohort.cpython-310.pyc
+2020-Makerspace-tracking/Analysis/helpers/__pycache__/heatmap.cpython-39.pyc
+2020-Makerspace-tracking/Analysis/helpers/__pycache__/heatmap.cpython-310.pyc
+2020-Makerspace-tracking/Analysis/helpers/__pycache__/makerspace.cpython-39.pyc
+2020-Makerspace-tracking/Analysis/helpers/__pycache__/makerspace.cpython-310.pyc
+2020-Makerspace-tracking/Analysis/helpers/__pycache__/temporal.cpython-39.pyc
+2020-Makerspace-tracking/Analysis/helpers/__pycache__/temporal.cpython-310.pyc
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/features_blogs.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/features_clusters_3angles.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/features_clusters_all_angles.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/features_clusters_poses_3angles.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/features_clusters_poses.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/features_clusters.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/features_colab.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/features_individual.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/features_people.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/outcome_community.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/outcome_participants_scores.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/outcome_self_efficacy.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/README.docx
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/weekly_dates.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/[ Archives ]/features_with_sections/features_cluster.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/[ Archives ]/features_with_sections/features_colab.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/[ Archives ]/features_with_sections/features_individual.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/[ Archives ]/features_with_sections/features_people.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/poseconnect/poseconnect_cleaned/2022-03-03/3d_2022-03-03.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/poseconnect/poseconnect_cleaned/2022-03-03/summary_2022-03-03.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/poseconnect/poseconnect_cleaned/2022-03-04/summary_2022-03-04.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/poseconnect/poseconnect_cleaned/2022-03-05/3d_2022-03-05.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/poseconnect/poseconnect_cleaned/2022-03-05/summary_2022-03-05.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/poseconnect/poseconnect_cleaned/2022-03-06/3d_2022-03-06.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/poseconnect/poseconnect_cleaned/2022-03-06/summary_2022-03-06.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/poseconnect/poseconnect_cleaned/2022-03-07/3d_2022-03-07.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/poseconnect/poseconnect_cleaned/2022-03-07/summary_2022-03-07.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/poseconnect/poseconnect_cleaned/2022-03-08/3d_2022-03-08.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/poseconnect/poseconnect_cleaned/2022-03-08/summary_2022-03-08.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/poseconnect/poseconnect_cleaned/2022-03-09/3d_2022-03-09.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/poseconnect/poseconnect_cleaned/2022-03-09/summary_2022-03-09.csv
+__pycache__/augment_df.cpython-310.pyc
+__pycache__/makerspace.cpython-310.pyc
+data_folder/2022-01-27-features.csv
+data_folder/2022-01-28-features.csv
+data_folder/2022-01-31-features.csv
+data_folder/2022-02-01-features.csv
+data_folder/2022-02-02-features.csv
+data_folder/2022-02-03-features.csv
+data_folder/2022-02-04-features.csv
+data_folder/2022-02-05-features.csv
+data_folder/2022-02-06-features.csv
+data_folder/2022-02-07-features.csv
+data_folder/2022-02-08-features.csv
+data_folder/2022-02-09-features.csv
+data_folder/2022-02-10-features.csv
+data_folder/2022-02-11-features.csv
+data_folder/2022-02-12-features.csv
+data_folder/2022-02-13-features.csv
+data_folder/2022-02-14-features.csv
+data_folder/2022-02-15-features.csv
+data_folder/2022-02-16-features.csv
+data_folder/2022-02-17-features.csv
+data_folder/2022-02-18-features.csv
+data_folder/2022-02-19-features.csv
+data_folder/2022-02-20-features.csv
+data_folder/2022-02-22-features.csv
+data_folder/2022-02-23-features.csv
+data_folder/2022-02-24-features.csv
+data_folder/2022-02-25-features.csv
+data_folder/2022-02-26-features.csv
+data_folder/2022-02-27-features.csv
+data_folder/2022-02-28-features.csv
+data_folder/2022-03-01-features.csv
+data_folder/2022-03-02-features.csv
+data_folder/2022-03-03-features.csv
+data_folder/2022-03-04-features.csv
+data_folder/2022-03-05-features.csv
+data_folder/2022-03-06-features.csv
+data_folder/2022-03-07-features.csv
+data_folder/2022-03-08-features.csv
+data_folder/2022-03-09-features.csv
+data_folder/2022-03-10-features.csv
+data_folder/2022-03-11-features.csv
+data_folder/2022-03-13-features.csv
+data_folder/2022-03-14-features.csv
+data_folder/2022-03-15-features.csv
+data_folder/2022-03-16-features.csv
+data_folder/2022-03-17-features.csv
+data_folder/2022-03-18-features.csv
+data_folder/2022-03-20-features.csv
+data_folder/2022-03-21-features.csv
+data_folder/2022-03-22-features.csv
+data_folder/2022-03-23-features.csv
+data_folder/2022-03-24-features.csv
+data_folder/2022-03-25-features.csv
+data_folder/2022-03-26-features.csv
+data_folder/2022-03-27-features.csv
+data_folder/2022-03-28-features.csv
+data_folder/2022-03-29-features.csv
+data_folder/2022-03-30-features.csv
+data_folder/2022-03-31-features.csv
+data_folder/2022-04-01-features.csv
+data_folder/2022-04-02-features.csv
+data_folder/2022-04-03-features.csv
+data_folder/2022-04-04-features.csv
+data_folder/2022-04-05-features.csv
+data_folder/2022-04-06-features.csv
+data_folder/2022-04-07-features.csv
+data_folder/2022-04-08-features.csv
+data_folder/2022-04-09-features.csv
+data_folder/2022-04-10-features.csv
+data_folder/2022-04-11-features.csv
+data_folder/2022-04-12-features.csv
+data_folder/2022-04-13-features.csv
+data_folder/2022-04-14-features.csv
+data_folder/2022-04-15-features.csv
+data_folder/2022-04-16-features.csv
+data_folder/2022-04-17-features.csv
+data_folder/2022-04-18-features.csv
+data_folder/2022-04-19-features.csv
+data_folder/2022-04-20-features.csv
+data_folder/2022-04-21-features.csv
+data_folder/2022-04-22-features.csv
+data_folder/2022-04-23-features.csv
+data_folder/2022-04-24-features.csv
+data_folder/2022-04-25-features.csv
+data_folder/2022-04-26-features.csv
+data_folder/2022-04-27-features.csv
+data_folder/2022-04-28-features.csv
+data_folder/2022-04-29-features.csv
+data_folder/2022-04-30-features.csv
+data_folder/2022-05-01-features.csv
+data_folder/2022-05-02-features.csv
+data_folder/2022-05-03-features.csv
+data_folder/2022-05-04-features.csv
+2020-Makerspace-tracking/Analysis/helpers/[ Archives ]/sid_scripts/sid_functions_how_to.pdf
+2020-Makerspace-tracking/Analysis/helpers/[ Archives ]/sid_scripts/sid_summary.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/[ Archives ]/features_with_sections/features_cluster.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/[ Archives ]/features_with_sections/features_colab.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/[ Archives ]/features_with_sections/features_individual.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/[ Archives ]/features_with_sections/features_people.csv
+2020-Makerspace-tracking/Analysis/helpers/[ Archives ]/sid_scripts/sid_functions_how_to.pdf
+2020-Makerspace-tracking/Analysis/helpers/[ Archives ]/sid_scripts/sid_summary.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/[ Archives ]/features_with_sections/features_cluster.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/[ Archives ]/features_with_sections/features_colab.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/[ Archives ]/features_with_sections/features_individual.csv
+2020-Makerspace-tracking/Data/2022-Spr-T519/aggregated/[ Archives ]/features_with_sections/features_people.csv
