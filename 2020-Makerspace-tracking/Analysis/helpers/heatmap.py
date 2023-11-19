@@ -57,7 +57,6 @@ def compute_correlation(df, outcomes, predictors, test='pearson', height=None,
         for index, row in annot.iterrows():
             for col in annot.columns:
                 val = str(round(float(annot.at[index,col]), 2))
-                #val = annot.at[index,col][0:3] #str(round(float(annot.at[index,col]), 2))
                 if pvalues.at[index,col] < 0.01: val += ' **'
                 elif pvalues.at[index,col] < 0.05: val += ' *'
                 elif pvalues.at[index,col] < 0.1: val +=  ' †'
