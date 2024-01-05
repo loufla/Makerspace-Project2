@@ -1,0 +1,35 @@
+week,from,to,student1,student2
+1,1/27/22,2/3/22,individual projects,
+2,2/3/22,2/10/22,individual projects,
+3,2/10/22,2/17/22,individual projects,
+"4,5,6",2/17/22,3/10/22,sara,ji su
+"4,5,6",2/17/22,3/10/22,hoa,xiaoyi
+"4,5,6",2/17/22,3/10/22,denise,melissa
+"4,5,6",2/17/22,3/10/22,natalie,chali
+"4,5,6",2/17/22,3/10/22,juan,helen
+"4,5,6",2/17/22,3/10/22,conner,rhea
+"4,5,6",2/17/22,3/10/22,rebecca,miaoya
+"4,5,6",2/17/22,3/10/22,yani,rui
+"4,5,6",2/17/22,3/10/22,aashna,rachel
+7,3/10/22,3/24/22,melissa,sara
+7,3/10/22,3/24/22,juan,aashna
+7,3/10/22,3/24/22,denise,rebecca
+7,3/10/22,3/24/22,natalie,conner
+7,3/10/22,3/24/22,helen,miaoya
+7,3/10/22,3/24/22,ji su,xiaoyi
+7,3/10/22,3/24/22,hoa,rachel
+7,3/10/22,3/24/22,rhea,yani
+7,3/10/22,3/24/22,chali,rui
+8,3/24/22,3/31/22,individual projects,
+9,3/31/22,4/7/22,individual projects,
+10,4/7/22,4/14/22,individual projects,
+"11,12,13,14",4/14/22,5/5/22,miaoya,rebecca
+"11,12,13,14",4/14/22,5/5/22,sara,
+"11,12,13,14",4/14/22,5/5/22,melissa,denise
+"11,12,13,14",4/14/22,5/5/22,helen,rachel
+"11,12,13,14",4/14/22,5/5/22,natalie,
+"11,12,13,14",4/14/22,5/5/22,chali,juan
+"11,12,13,14",4/14/22,5/5/22,xiaoyi,rui
+"11,12,13,14",4/14/22,5/5/22,rhea,conner
+"11,12,13,14",4/14/22,5/5/22,hoa,aashna
+"11,12,13,14",4/14/22,5/5/22,ji su,yani
